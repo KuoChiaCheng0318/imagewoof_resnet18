@@ -13,7 +13,7 @@ Result using resnet18 to classify Imagewoof dataset (accuracy:0.3)
 <img src="Result.PNG" width="300px">
 <br>
 <br>
-Result of DummyClassifier using "most_frequent" (accuracy:0.09)
+Result of DummyClassifier using "most_frequent" (accuracy:0.1)
 <br>
 <img src="DummyClassifier.PNG" width="400px">
 <br>
