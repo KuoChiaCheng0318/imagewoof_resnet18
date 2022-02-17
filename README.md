@@ -1,4 +1,7 @@
 # imagewoof_resnet18
+
+<br>
+Google Colab link: https://colab.research.google.com/drive/1i7TutHdMP3ZeqUhl8n1XI1e8fn9Ei7FU?usp=sharing
 <br>
 Training loss
 <br>
