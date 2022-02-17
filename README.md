@@ -10,9 +10,9 @@ Result using resnet18 to classify Imagewoof dataset (accuracy:0.3)
 <img src="Result.PNG" width="300px">
 <br>
 <br>
-Result of DummyClassifier (accuracy:0.09)
+Result of DummyClassifier using "most_frequent" (accuracy:0.09)
 <br>
-<img src="Result.PNG" width="300px">
+<img src="DummyClassifier.PNG" width="300px">
 <br>
 <br>
 References: https://www.kaggle.com/pintu161/transfer-learning-in-pytorch-using-resnet18
