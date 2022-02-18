@@ -12,8 +12,6 @@ Training Accuracy
 <br>
 Result using resnet18 to classify Imagewoof dataset (accuracy:0.34)
 <br>
-confusion matrix:
-<br>
 <img src="result200epochs.PNG" width="300px">
 <br>
 <br>
