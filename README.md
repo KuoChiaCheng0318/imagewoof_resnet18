@@ -4,7 +4,7 @@
 Google Colab link: https://colab.research.google.com/drive/12_oakMuvnZXgLC0ApXXzDQAF2I96HVHh?usp=sharing
 <br>
 <br>
-Training loss
+Training Accuracy
 <br>
 <img src="Loss50epoch.PNG" width="300px">
 <br>
