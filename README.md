@@ -6,14 +6,15 @@ Google Colab link: https://colab.research.google.com/drive/12_oakMuvnZXgLC0ApXXz
 <br>
 Training Accuracy
 <br>
-<img src="Loss50epoch.PNG" width="300px">
+<img src="Training50epoch.PNG" width="300px">
+<img src="Training200epoch.PNG" width="300px">
 <br>
 <br>
-Result using resnet18 to classify Imagewoof dataset (accuracy:0.36)
+Result using resnet18 to classify Imagewoof dataset (accuracy:0.34)
 <br>
 confusion matrix:
 <br>
-<img src="result50epochs.PNG" width="300px">
+<img src="result200epochs.PNG" width="300px">
 <br>
 <br>
 Result of DummyClassifier using "most_frequent" (accuracy:0.1)
