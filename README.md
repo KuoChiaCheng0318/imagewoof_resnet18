@@ -1,7 +1,8 @@
 # imagewoof_resnet18
 
 <br>
-Google Colab link: https://colab.research.google.com/drive/1i7TutHdMP3ZeqUhl8n1XI1e8fn9Ei7FU?usp=sharing
+Google Colab link: https://colab.research.google.com/drive/12_oakMuvnZXgLC0ApXXzDQAF2I96HVHh?usp=sharing
+<br>
 <br>
 Training loss
 <br>
@@ -17,7 +18,7 @@ confusion matrix:
 <br>
 Result of DummyClassifier using "most_frequent" (accuracy:0.1)
 <br>
-<img src="DummyClassifier.PNG.PNG" width="400px">
+<img src="DummyClassifier.PNG" width="400px">
 <br>
 <br>
 References:
