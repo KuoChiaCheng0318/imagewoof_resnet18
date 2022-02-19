@@ -14,7 +14,7 @@ Training Accuracy
 <br>
 Result using resnet18 to classify Imagewoof dataset (accuracy:0.38)
 <br>
-<img src="result50epochs_2.PNG" width="300px">
+<img src="result50epochs_2.PNG" width="400px">
 <br>
 <br>
 Result of DummyClassifier using "most_frequent" (accuracy:0.1)
