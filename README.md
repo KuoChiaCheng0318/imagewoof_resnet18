@@ -8,8 +8,8 @@ Dataset link: https://s3.amazonaws.com/fast-ai-imageclas/imagewoof-320.tgz
 <br>
 Training Accuracy
 <br>
-<img src="Training50epoch.PNG" width="300px">
-<img src="Training200epoch.PNG" width="300px">
+<img src="Training50epoch.PNG" width="400px">
+<img src="Training200epoch.PNG" width="400px">
 <br>
 <br>
 Result using resnet18 to classify Imagewoof dataset (accuracy:0.38)
